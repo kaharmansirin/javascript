@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.js linguist-language=JavaScript  # JavaScript language specification for language recognition
+*.js text eol=lf                  # Set line ending characters to LF for JavaScript files
+
